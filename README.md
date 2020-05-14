@@ -9,7 +9,6 @@ MaddStress is a denial-of-service (DDoS) attack refers to attempts to overload a
 ``
 I am created this tool for system administrators and game developers to test their servers. Use at your own risk.
 Feel free to donate if you found it useful, I would like to add improvements. Please help to donate to update more version.
-
 BTC : 38JYmWtXezJj6xUMorcXZvn6kphmAZxZ66
 ``
 
