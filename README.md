@@ -20,6 +20,7 @@ BTC : 38JYmWtXezJj6xUMorcXZvn6kphmAZxZ66
 - URL Grabber
 - Port Scanner
 - CloudFlare Resolver
+- Simple Design UI
 - User friendly GUI
 
 
