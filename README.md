@@ -26,7 +26,7 @@ BTC : 38JYmWtXezJj6xUMorcXZvn6kphmAZxZ66
 
 ## Screenshot:
 
-![image](https://a.fsdn.com/con/app/proj/maddstress/screenshots/Full%20Size.png/max/max/1)
+![image](https://a.fsdn.com/con/app/proj/maddstress/screenshots/Untitled.png/max/max/1)
 
 [![Download MaddStress](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/maddstress/files/latest/download) [![Download MaddStress](https://img.shields.io/sourceforge/dm/maddstress.svg)](https://sourceforge.net/projects/maddstress/files/latest/download)
 
